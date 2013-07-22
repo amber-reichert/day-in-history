@@ -8,4 +8,4 @@
 <p>First Lady Dolley Madison resisted the calls to evacuate. When she finally left, she made sure that a portrait of George Washington by Gilbert Stuart was removed from the White House and stored safely. She also took several important cabinet documents with her when she departed. As the British troops headed toward to capital, Monroe stayed to help with the city's evacuation. Once the British troops entered the city, they torched the White House and most other federal buildings in retaliation for the burning of the Canadian Parliament buildings in York.</p> 
 <p>The United States was ultimately victorious in the War of 1812, and the Treaty of Ghent was signed by both countries in December 1814. Washington, D.C., was gradually rebuilt. It took three years to rebuild the White House, and in October 1817, President James Monroe moved back into the reconstructed White House.</p>  
 
-<p>For more information, please visit the <a href="../madison">James Madison home page</a>.</p><h4>James Madison</h4>
+<p>For more information, please visit the <a href=""../madison"">James Madison home page</a>.</p><h4>James Madison</h4>

@@ -7,4 +7,4 @@
 <p>An annexation resolution supported by the President made its way into the House of Representatives on May 4, 1898. The Senate passed the measure on July 6, and McKinley signed it one day later. The United States took formal possession of the islands on August 12, 1898. Hawaii's first territorial governor was posted in 1900.</p>
 <p>The annexation of the Hawaiian Islands was one illustration of how the United States emerged on the world stage in new and unprecedented ways during the presidency of William McKinley. His aggressive policy on Hawaii, coupled with America's seizure of the Philippines, brought the United States squarely into the increasingly competitive realm of power politics in the Pacific.</p>
 
-<p>For more information, please visit the <a href="../mckinley">William McKinley home page</a>.</p><h4>William McKinley</h4>
+<p>For more information, please visit the <a href=""../mckinley"">William McKinley home page</a>.</p><h4>William McKinley</h4>

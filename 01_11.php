@@ -8,4 +8,4 @@
 <p>Pinchot was a strong advocate for more federal power to protect wilderness in the United States, particularly in the West. With his prodding, President Roosevelt secured the Transfer Act in 1905, which shifted the responsibility of managing federal forests from the Department of the Interior to the Department of Agriculture and the Division of Forestry, later remained the Forest Service. As head of the Forest Service, Pinchot staffed it with scientists, not bureaucrats, and Pinchot and his team added millions of acres of western land to federal holdings.</p>
 <p>During the early 1900s, conservation became a new and increasingly popular agenda for the federal government, due to President Roosevelt's energetic promotion of the issue. </p>
 
-<p>For more information, please visit the <a href="../roosevelt">Theodore Roosevelt home page</a>.</p><h4>Theodore Roosevelt</h4>
+<p>For more information, please visit the <a href=""../roosevelt"">Theodore Roosevelt home page</a>.</p><h4>Theodore Roosevelt</h4>

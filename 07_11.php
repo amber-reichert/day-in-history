@@ -7,4 +7,4 @@
 <p>Hamilton had declared the previous evening his intention to fire into the air; whether or not he shot at Burr remained a point of contention for years to follow, but Burr nonetheless escaped unscathed after fatally wounding Hamilton, who died the next day.  After New York and New Jersey both issued warrants for his arrest, Burr went back to the District of Columbia and resumed his position as vice president, presiding over the Senate.</p> 
 <p>As public outrage grew, Burr fled to the west, where from 1805 to 1807 he participated in a vague but ambitious plan to separate the southwest from the United States. The Supreme Court found him not guilty of treason in 1807, and after five years in Europe, Burr returned to New York, where he practiced law in New York until his death in 1836.</p> 
 
-<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a>.</p><h4>Thomas Jefferson</h4>
+<p>For more information, please visit the <a href=""../jefferson"">Thomas Jefferson home page</a>.</p><h4>Thomas Jefferson</h4>

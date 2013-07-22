@@ -11,4 +11,4 @@
 
 <p>President Pierce personally lobbied Democrats to support Douglas's bill. As the tide of opposition rose in the North, Pierce used the Kansas-Nebraska Act as a test of party loyalty. He used his presidential powers to cajole, threaten, or promise federal patronage for support and, in the end, was able to direct the votes of many Northern Democrats. The Kansas-Nebraska Act was the most important legislation of the Pierce presidency, but it was a costly victory. Many in the North believed Pierce catered to Southern interests who wanted to expand slavery. This led to a loss of Northern support for Pierce's foreign policy. President Pierce showed that he could not govern effectively or unite the party. The divisive debate surrounding the spread of slavery would not go away-as it had not in 1820 and 1850, and Pierce's presidency languished as a result.</p>
 
-<p>For more information, please visit the <a href="../pierce">Franklin Pierce home page</a>.</p><h4>Franklin Pierce</h4>
+<p>For more information, please visit the <a href=""../pierce"">Franklin Pierce home page</a>.</p><h4>Franklin Pierce</h4>

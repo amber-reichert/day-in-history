@@ -6,4 +6,4 @@
 <p>Prior to the Brooklyn Bridge opening celebration, President Arthur's health had been deteriorating. (He suffered from Bright's disease, a then-fatal kidney ailment.) Still, the crowd of people who showed up for the event were unaware, and the President received a spectacular welcome. Arthur and Governor Cleveland walked across the bridge along with the 7th regiment as part of the celebration. Later that day, both personally congratulated Washington Roebling.</p>
 <p>When the Brooklyn Bridge opened, it was the longest suspension bridge in the world and one of the most revolutionary structures of the era. It remains a symbol of engineering prowess.</p>
 
-<p>For more information, please visit the <a href="../arthur">Chester Alan Arthur home page</a>.</p><h4>Chester Alan Arthur</h4>
+<p>For more information, please visit the <a href=""../arthur"">Chester Alan Arthur home page</a>.</p><h4>Chester Alan Arthur</h4>

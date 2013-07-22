@@ -6,4 +6,4 @@
 <p>Both the courts and public opinion opposed Truman's action. According to a Gallup poll, 43 percent of Americans disapproved of the seizures. In April, a federal district court found Truman's actions unconstitutional. Two months later, the U.S. Supreme Court upheld the lower court's finding in a 6 to 3 decision.</p> 
 <p>With control of the steel plants back in private hands, a fifty-three day strike ensued. In July, the President was finally able to get both sides to agree to terms similar to those on the table at the start of the year. Truman had risked much of his political capital on a strike that, in the end, had minimal effect on the Korean War. The choices he made in this incident increased the unpopularity of an already embattled President.</p>
 
-<p>For more information, please visit the <a href="../truman">Harry S. Truman home page</a>.</p><h4>Harry S. Truman</h4>
+<p>For more information, please visit the <a href=""../truman"">Harry S. Truman home page</a>.</p><h4>Harry S. Truman</h4>

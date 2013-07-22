@@ -8,4 +8,4 @@
 <p>After congressional approval, the suffrage amendment entered into a tenaciously contested battle for ratification in state legislatures. The amendment faced its greatest opposition in the South, where conservative Protestants of both genders resisted women's voting rights as a challenge to traditional values and the institution of white supremacy. States in the North and West provided the bulk of support for the amendment, but Southern support in a few states was still needed for ratification. After the thirty-fifth state ratified the amendment in early 1920, President Wilson leaned heavily on Tennessee governor Albert Roberts to call a special session of the state legislature that summer. With heavy local and national pressure bearing down on the legislature, the Tennessee legislature passed the amendment by two votes on August 18, 1920, securing its ratification as the nineteenth amendment to the Constitution.</p>
 
 
-<p>For more information, please visit the <a href="../wilson">Woodrow Wilson home page</a>.</p><h4>Woodrow Wilson</h4>
+<p>For more information, please visit the <a href=""../wilson"">Woodrow Wilson home page</a>.</p><h4>Woodrow Wilson</h4>

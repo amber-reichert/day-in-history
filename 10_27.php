@@ -6,6 +6,6 @@
 <p>Then, in late September, Americans in West Florida seized control of the area, proclaimed an independent republic, and offered it to the United States. Madison did not support the rebels' actions and continued to reason that West Florida already belonged to the United States as part of the Louisiana Purchase. So he issued his proclamation in October to annex West Florida to prevent the territory from falling into British hands and appointed William C.C. Claiborne, governor of the Orleans territory, to take control of the area.</p> 
 <p>Federalists, opponents of Madison's Republican Party, claimed the occupation was unconstitutional, but Congress voted in January along party lines to approve Madison's action. The episode raised hopes for those who wanted to annex East Florida, as the United States would eventually do in 1819 with the Adams-On&iacute;s Treaty.</p> 
 
-<p>To read the full text of President Madison's Proclamation of the Occupation of West Florida, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3610">here</a>.</p>
-<p>To read the full text of President Madison's Second Annual Message to Congress, in which he informs Congress of the Proclamation, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3609">here</a>.</p>
-<p>For more information, please visit the <a href="../madison">James Madison home page</a>.</p><h4>James Madison</h4>
+<p>To read the full text of President Madison's Proclamation of the Occupation of West Florida, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3610"">here</a>.</p>
+<p>To read the full text of President Madison's Second Annual Message to Congress, in which he informs Congress of the Proclamation, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3609"">here</a>.</p>
+<p>For more information, please visit the <a href=""../madison"">James Madison home page</a>.</p><h4>James Madison</h4>

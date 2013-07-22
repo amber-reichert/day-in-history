@@ -1,5 +1,7 @@
 
-<h2>1901-03-23 12:00 PM</h2><h1>United States Captures Emilio Aguinaldo</h1>
+<p>/images/academic/americanpresident/essayimages/03_23.jpg</p>
+<h2>1901-03-23 12:00 PM</h2>
+<h1>United States Captures Emilio Aguinaldo</h1>
 
 <p>On March 23, 1901, the United States captured Emilio Aguinaldo, the leader of the independence movement in the Philippine Islands. Once in U.S. custody, Aguinaldo signed an oath of allegiance to the United States, which ended any lingering hope of the rebellion's success. President William McKinley tried to convince the Filipinos that U.S. rule would benefit the country, but the United States continued fighting rebel troops across the islands for another year until American forces secured full control of the country.</p>  
 <p>The Philippine independence movement began in 1896 as Filipinos revolted against Spanish rule. Both sides agreed to a truce in December 1897, with Aguinaldo going into exile in Hong Kong. During the Spanish-American War, U.S. leadership brought Aguinaldo back to the islands to aid in mobilizing the native population against Spain. Aguinaldo declared Philippine independence on June 12, 1898, naming himself President of the Philippine Republic after Spanish forces surrendered to the Americans that August in Manila.</p> 
@@ -7,4 +9,4 @@
 <p>General Elwell Otis led American troops into combat in the fall of 1899 and routed the Filipino army by November. Filipino forces regrouped using guerrilla tactics, and American forces aggressively pursued their destruction in the bitter fighting that followed. Throughout 1899, anti-imperialist Americans criticized McKinley's annexation of the islands and prosecution of the war as anathema to the democratic traditions of the United States. McKinley held firm, however, since putting down the rebellion went hand-in-hand with the establishment of a paternalist American presence on the archipelago. The United States secured its control over the Philippines by 1902.</p> 
 <p>During President McKinley's tenure, the United States fought and won a war with a European power, and acquired overseas territories. Along with the Philippines, the United States obtained Guam and Puerto Rico and occupied Cuba. In short, the United States emerged on the world stage in new and unprecedented ways.</p> 
 
-<p>For more information, please visit the <a href=""../mckinley"">William McKinley home page</a>.</p><h4>William McKinley</h4>
+<h4>William McKinley</h4>

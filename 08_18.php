@@ -1,5 +1,7 @@
 
-<h2>1920-08-18 12:00 PM</h2><h1>Nineteenth Amendment Ratified</h1>
+<p>/images/academic/americanpresident/essayimages/08_18.jpg</p>
+<h2>1920-08-18 12:00 PM</h2>
+<h1>Nineteenth Amendment Ratified</h1>
 
 <p>On August 18, 1920, the Nineteenth Amendment to the Constitution of the United States was ratified. The amendment gave women the right to vote.</p> 
 <p>Women activists in the United States had agitated for equal political rights since the mid-nineteenth century. Reformers in the Progressive Era succeeded in making suffrage a significant political issue, and four western states granted women the right to vote in state constitutions. However, business groups and conservative women's organizations opposed women's suffrage and blocked federal efforts.</p>
@@ -8,4 +10,4 @@
 <p>After congressional approval, the suffrage amendment entered into a tenaciously contested battle for ratification in state legislatures. The amendment faced its greatest opposition in the South, where conservative Protestants of both genders resisted women's voting rights as a challenge to traditional values and the institution of white supremacy. States in the North and West provided the bulk of support for the amendment, but Southern support in a few states was still needed for ratification. After the thirty-fifth state ratified the amendment in early 1920, President Wilson leaned heavily on Tennessee governor Albert Roberts to call a special session of the state legislature that summer. With heavy local and national pressure bearing down on the legislature, the Tennessee legislature passed the amendment by two votes on August 18, 1920, securing its ratification as the nineteenth amendment to the Constitution.</p>
 
 
-<p>For more information, please visit the <a href=""../wilson"">Woodrow Wilson home page</a>.</p><h4>Woodrow Wilson</h4>
+<h4>Woodrow Wilson</h4>

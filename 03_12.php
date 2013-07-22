@@ -1,9 +1,11 @@
 
-<h2>1947-03-12 12:00 PM</h2><h1>Truman Doctrine Announced</h1>
+<p>/images/academic/americanpresident/essayimages/03_12.jpg</p>
+<h2>1947-03-12 12:00 PM</h2>
+<h1>Truman Doctrine Announced</h1>
 
 <p>On March 12, 1947, President Harry S. Truman appeared before a joint session of Congress to request military aid for the countries of Greece and Turkey. During the course of his remarks, Truman described the United States as engaged in an ideological conflict with the forces of totalitarianism-a thinly veiled reference to the Soviet Union. The President observed that every nation had to choose between a way of life “based upon the will of the majority,” and a way of life “based upon the will of a minority forcibly imposed upon the majority.” Setting America on a new course in world affairs, Truman proclaimed that “it must be the policy of the United State to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures.” The United States would thenceforth provide aid to countries fighting the forces of Communism. Truman did not advocate sending troops around the world to fight against Communist insurgents, however. Instead, starting with Greece and Turkey, he asked Congress for financial aid to support those nations facing Communist threats.</p>
 <p>Truman's aid request did not mark a dramatic shift in the policies of his administration. The President's advisers on foreign policy had long advocated that Truman adopt a tougher stance against the Soviet Union. Nevertheless, the address did signify a shift in how Truman characterized the Soviet Union and the menace it represented to the American public. In framing the issues as a conflict between two irreconcilable ideologies, Truman sharpened the tone of his rhetoric, asking for a global commitment to contain a ruthless foe.</p>
 <p>Truman's speech prompted criticism from both the left and right of the American political spectrum. Liberals, such as Henry Wallace, continued to call for cooperation with the Soviet Union. Conservatives, including powerful Republican Senator Robert Taft, spoke out against further American involvement in Europe. The administration, however, was able to mobilize support from moderates in both parties who recognized in Communism a threat of increasing proportions. Congress passed Truman's aid package to Greece and Turkey in May 1947 with clear majorities in both the House and the Senate.</p>
 
 <p>To read President Truman's entire speech, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3343"">here</a>.</p>
-<p>For more information, please visit the <a href=""../truman"">Harry S. Truman home page</a>.</p><h4>Harry S. Truman</h4>
+<h4>Harry S. Truman</h4>

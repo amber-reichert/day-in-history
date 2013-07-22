@@ -1,5 +1,7 @@
 
-<h2>1798-06-18 12:00 PM</h2><h1>Congress Approves the First Alien and Sedition Act</h1>
+<p>/images/academic/americanpresident/essayimages/06_18.jpg</p>
+<h2>1798-06-18 12:00 PM</h2>
+<h1>Congress Approves the First Alien and Sedition Act</h1>
 
 <p>On June 18, 1798, Congress approved the first of four acts that collectively became known as the Alien and Sedition Acts. These four acts became the most bitterly contested domestic issue during the presidency of John Adams.</p>
 <p>The Alien and Sedition Acts consisted of four different pieces of legislation. The Naturalization Act increased the residency requirement from five to fourteen years before citizenship could be granted; the Alien Act authorized the President to deport any alien he deemed dangerous to the security of the United States; and the Alien Enemies Act allowed the President to deport aliens of an enemy country or restrict their freedoms in times of war. The Sedition Act targeted Americans themselves by forbidding opposition to laws of the federal government and making it illegal to publish criticism of the government. Because opposition had not yet gained legitimacy in American politics, the Federalist-controlled presidency and Congress used the Sedition Act to try to limit the influence of the Democratic-Republicans.</p>
@@ -7,4 +9,4 @@
 <p>As hostilities loomed between France and the United States, the three anti-alien laws targeted French and pro-French immigrants whom Federalists thought brought dangerous political ideas to America; moreover, Federalists believed, those recent arrivals would likely support the Democratic-Republican Party. Concerned citizens around the country petitioned President Adams to oppose the restrictive measures. Adams responded with a series of public addresses admonishing the people against factional divisions and foreign interference in American government. His administration vigorously enforced the legislation: under the Sedition Act, the most controversial of the four, several Democratic-Republican newspaper publishers were arrested, and ten were convicted for seditious libel before the acts expired in 1801. After the Democratic-Republicans took office in 1801, Federalists found themselves the victims of their own policies when the new administration of President Thomas Jefferson prosecuted several Federalist editors in state courts.</p> 
 <p>More than tools of partisan politicking, however, the Alien and Sedition Acts brought to the fore the issues of free speech and the balance of power between the state and federal governments. It also forced Americans to grapple with the fact that instead of classical republican harmony or unitary support for presidential leadership, dissent would thereafter characterize American politics.</p>
 
-<p>For more information, please visit the <a href=""../adams"">John Adams home page</a>.</p><h4>John Adams</h4>
+<h4>John Adams</h4>

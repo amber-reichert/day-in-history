@@ -1,5 +1,7 @@
 
-<h2>1793-05-18 12:00 PM</h2><h1>Washington Receives “Citizen Genet”</h1>
+<p>/images/academic/americanpresident/essayimages/05_18.jpg</p>
+<h2>1793-05-18 12:00 PM</h2>
+<h1>Washington Receives “Citizen Genet”</h1>
 
 <p>On May 18, 1793, President George Washington received the French minister to the United States, Edmond Charles Genet. Known as “Citizen Genet,” the minister had come to the United States to try to gain U.S. support for France. He arrived in the country in April 1793 and journeyed to Philadelphia, stopping to celebrate along the way with adoring, supportive crowds.</p> 
 <p>France and the United States had maintained friendly relations since signing an alliance in 1778. When the French Revolution turned violent in 1792, however, many Americans re-evaluated that friendship. Republicans, including Thomas Jefferson, sympathized with the revolution, seeing it as an emulation of America's own freedom struggle. Alexander Hamilton and his fellow Federalists feared that the chaos and violence would spread to the United States and destroy the young republic. When revolutionary France and Britain went to war in early 1793, Washington declared the United States neutral, warning Americans to avoid aiding either side in the emerging European conflict. However, this proclamation of neutrality only deepened domestic partisan divisions over the tenor of Franco-American relations.</p>
@@ -7,4 +9,4 @@
 <p>Washington and Hamilton believed Genet's activities constituted a threat to the stability of the American republic. Hamilton and other Federalists worked to discredit Genet, and Republicans tried to distance themselves from him. In August 1793, Washington and his cabinet unanimously agreed to request that France recall Genet. However, a new government had come to power in France during Genet's absence, and it had decided that his actions were hurting its cause and called for his arrest. Fearing for the Frenchman's safety, Washington allowed Genet to remain in the country as a private resident; he lived in New York until his death in 1834.</p>
 <p>Genet's activities in 1793 sharpened the existing divisions between Federalists and Republicans, adding to the growing political partisanship that marked the 1790s. As the American citizenry became further politicized, President Washington's ability to promote consensus quickly eroded and his ability to govern was compromised. Washington's second term stalled under intense partisan political turmoil, one of the reasons he happily retired to Mount Vernon when his presidency ended.</p>
 
-<p>For more information, please visit the <a href=""../washington"">George Washington home page</a>.</p><h4>George Washington</h4>
+<h4>George Washington</h4>

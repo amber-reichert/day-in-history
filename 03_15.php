@@ -1,5 +1,7 @@
 
-<h2>1965-03-15 12:00 PM</h2><h1>Johnson Introduces Voting Rights Act</h1>
+<p>/images/academic/americanpresident/essayimages/03_15.jpg</p>
+<h2>1965-03-15 12:00 PM</h2>
+<h1>Johnson Introduces Voting Rights Act</h1>
 
 <p>On March 15, 1965, President Lyndon Johnson addressed a joint session of Congress to introduce voting rights legislation. In a moving oration, Johnson called on white Americans to make the cause of African Americans their cause too. Together, he explained, echoing the anthem of the civil rights movement, “we shall overcome.”</p>
 <p>After winning reelection in 1964, President Johnson realized the need for significant voting rights legislation, but, as he explained to Martin Luther King, Jr., he felt that such a bill would hold up the passage of other programs in his domestic program. Still King and other civil rights leaders sought ways to bring the issue of voting rights to the attention of the American people.</p>
@@ -10,4 +12,4 @@
 <p>President Johnson, the master legislator, pushed for the passage of a strong bill to end the disenfranchisement of African Americans in the South. Together with the Civil Rights Act of 1964, the Voting Rights Act effectively ended the systematic segregation of the South.</p>
 
 <p>To read and listen to the full text of Johnson's speech, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3386"">here</a>.</p>
-<p>For more information, please visit the <a href=""../lbjohnson"">Lyndon Baines Johnson home page</a>.</p><h4>Lyndon Baines Johnson</h4>
+<h4>Lyndon Baines Johnson</h4>

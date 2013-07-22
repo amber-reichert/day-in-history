@@ -1,5 +1,7 @@
 
-<h2>1796-09-19 12:00 PM</h2><h1>Washington's Farewell Address</h1>
+<p>/images/academic/americanpresident/essayimages/09_19.jpg</p>
+<h2>1796-09-19 12:00 PM</h2>
+<h1>Washington's Farewell Address</h1>
 
 <p>On September 19, 1796, newspapers around the country published President George Washington&rsquo;s Farewell Address. In his address, Washington summarized his presidential tenure, cautioned against political divisions, and advised future American leaders to minimize connections with foreign powers.</p>
 <p>President Washington, after nearly eight years as the nation&rsquo;s first President, determined that he would not accept a third term in office. By this time, political divisions between Alexander Hamilton on one side and James Madison and Thomas Jefferson on the other had hardened into proto-political parties. Whereas in 1789, at the time of Washington's inauguration, loyalty to country and Constitution equated with loyalty to the President, the rise of political parties had begun to separate the two. Washington, as a result, faced increasing criticism of his domestic and foreign policies during his second term. Upon deciding to retire, he offered his Farewell Address both as a defense of his presidency and a plea for the future of the federal government.</p>
@@ -9,4 +11,4 @@
 
 <p>To read President Washington&rsquo;s Farewell Address, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3462"">here</a>.</p>
 
-<p>For more information, please visit the <a href=""../washington"">George Washington home page</a>.</p><h4>George Washington</h4>
+<h4>George Washington</h4>

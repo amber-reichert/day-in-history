@@ -1,9 +1,11 @@
 
-<h2>1848-02-02 12:00 PM</h2><h1>Treaty of Guadalupe Hidalgo Signed</h1>
+<p>/images/academic/americanpresident/essayimages/02_02.jpg</p>
+<h2>1848-02-02 12:00 PM</h2>
+<h1>Treaty of Guadalupe Hidalgo Signed</h1>
 
 <p>On February 2, 1848, Nicholas Trist-a special emissary dispatched to Mexico by President James K. Polk-signed the Treaty of Guadalupe Hidalgo with the Mexican government. The treaty ended the Mexican War, which began in 1846. Under the terms of the treaty, Mexico agreed to recognize the Rio Grande as the Texas border and ceded California and New Mexico to the United States. The United States agreed to pay Mexico $15 million for the territories and assume $3 million in outstanding American claims against the Mexican government.</p>
 <p>Following General Winfield Scott's victories at Contreras and Churubusco in August 1847, Trist began negotiating a peace settlement to end the Mexican War. The next month, General Scott captured Mexico City. Still the Mexican government refused President Polk's terms for a peace treaty.</p>
 <p>The slow progress of talks, as well as Trist's budding friendship with the Whig General Scott, frustrated Polk, and in October he ordered Trist to abandon negotiations and return to Washington, D.C. When Trist received the order in mid-November, he decided that Polk did not understand the situation in Mexico and ignored the recall notice. He reasoned that he could secure a treaty and the U.S. government would still be at liberty to reject it.</p>
 <p>Polk was livid when Trist ignored his order to return to Washington, but he was nevertheless pleased when Trist signed the treaty with Mexico in February. At the suggestion of his cabinet, President Polk forwarded it to the Whig-controlled Senate. The treaty passed 38 to 14 on March 10, 1848, despite efforts from some Democrats (who wanted more Mexican territory) and some Whigs (who stood firmly against any acquisition of Mexican territory) to kill it. The treaty drastically enlarged the United States, granting the country more than 500,000 square miles of new western territory and valuable ports in California. The Treaty of Guadalupe Hidalgo was one of President James Polk's greatest accomplishments. </p>
 
-<p>For more information, please visit the <a href=""../polk"">James Knox Polk home page</a>.</p><h4>James Knox Polk</h4>
+<h4>James Knox Polk</h4>

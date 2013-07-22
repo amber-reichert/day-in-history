@@ -1,5 +1,7 @@
 
-<h2>1846-06-15 12:00 PM</h2><h1>Senate Approves Oregon Treaty</h1>
+<p>/images/academic/americanpresident/essayimages/06_15.jpg</p>
+<h2>1846-06-15 12:00 PM</h2>
+<h1>Senate Approves Oregon Treaty</h1>
 
 <p>On June 15, 1846, the United States Senate approved the Oregon Treaty, which established the 49th parallel as the border between British and American claims to the Oregon territory. The treaty granted the United States clear title to present-day Idaho, Washington, Oregon, and Montana, and granted Britain the territory above the 49th parallel and full control over Vancouver Island.</p> 
 <p>James K. Polk gained the presidency in 1844 in part on the Democratic Party's expansionist pledge to seize all of the Oregon territory for the United States. America had jointly occupied Oregon with Britain since 1818, when the two nations began negotiating over a final boundary in the territory. Both sides had remained unwilling to agree to a dividing line which did not include for them the valuable harbor of Vancouver Island: the United States desired the more northerly 49th parallel, while Britain wanted the Columbia River to be the border (which was far south of the 49th parallel).</p>  	
@@ -7,4 +9,4 @@
 <p>In July 1845, however, Polk proposed a compromise to the British, offering to establish the boundary at the 49th parallel while granting Britain full control of Vancouver Island. With war in Mexico appearing ever more likely, the President wanted to avoid a simultaneous war with Britain. The British rejected the initial offer, and Polk responded by intimating that he was willing to go to war over the issue. London, however, reconsidered the proposition a year later, sending Polk a treaty on the terms he had proposed. When it arrived in Washington, Polk forwarded the treaty to the Senate unsigned, refusing to commit himself to it politically until the Senate approved it.</p>
 <p>The Oregon Treaty was a great success, finally granting the United States clear title to vast tracts of land in the Northwest. Moreover, it allowed both Britain and the United States access to the Pacific Ocean through the channel south of Vancouver Island and avoided a possible war. Polk took criticism from some for abandoning the “All-Oregon” position, but for most it was a welcome settlement of the affair. Polk had handled the matter with skill, and the treaty allowed him to shift his full attention to the ongoing war with Mexico.</p>
 
-<p>For more information, please visit the <a href=""../polk"">James Knox Polk home page</a>.</p><h4>James Knox Polk</h4>
+<h4>James Knox Polk</h4>

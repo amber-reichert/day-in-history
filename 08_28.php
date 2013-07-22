@@ -1,5 +1,7 @@
 
-<h2>1963-08-28 12:00 PM</h2><h1>March on Washington</h1>
+<p>/images/academic/americanpresident/essayimages/08_28.jpg</p>
+<h2>1963-08-28 12:00 PM</h2>
+<h1>March on Washington</h1>
 
 <p>On August 28, 1963, about 250,000 people traveled to Washington, D.C., to demonstrate their support for civil rights legislation before Congress. The leaders of the major civil rights organizations led a nonviolent march from the Washington Monument to the Lincoln Memorial. Before a large crowd and a national television audience, Martin Luther King, Jr., gave his famous “I Have a Dream” speech. With a large turnout and peaceful demonstration, the civil rights leaders increased the pressure on Congress and President John Kennedy to pass meaningful civil rights legislation.</p>
 <p>Before the summer of 1963, the Kennedy administration had disappointed many of those involved in the civil rights struggle. The President had often attempted to avoid conflict with Southern Democrats on issues regarding race. On June 11, 1963, after Governor George Wallace tried to block desegregation at the University of Alabama, Kennedy made his most aggressive statement on civil rights in an impromptu address to the nation, arguing on moral grounds for equal rights for all Americans. With a firm commitment to legislation for civil rights, President Kennedy met with African American leaders to gain their support. Despite Kennedy's opposition, many of the leaders at this meeting proposed a march on Washington to pressure Congress to pass a strong civil rights act.</p>
@@ -8,4 +10,4 @@
 
 <p>To read and listen to the full text of President Kennedy's June 11, 1963 speech, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3375"">here</a>.</p>
 
-<p>For more information, please visit the <a href=""../kennedy"">John Fitzgerald Kennedy home page</a>.</p><h4>John Fitzgerald Kennedy</h4>
+<h4>John Fitzgerald Kennedy</h4>

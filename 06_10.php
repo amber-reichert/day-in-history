@@ -1,5 +1,7 @@
 
-<h2>1963-06-10 12:00 PM</h2><h1>Kennedy Gives American University Address</h1>
+<p>/images/academic/americanpresident/essayimages/06_10.jpg</p>
+<h2>1963-06-10 12:00 PM</h2>
+<h1>Kennedy Gives American University Address</h1>
 
 <p>On June 10, 1963, President John Kennedy gave a commencement address at American University. In it, he addressed relations between the United States and the Soviet Union and a nuclear test ban treaty.</p>
 <p>In the aftermath of the Cuban Missile Crisis in October 1962, both Kennedy and Soviet Premier Nikita Khrushchev hoped their countries could move closer to peace. The idea of a nuclear test ban treaty originated in the administration of President Dwight Eisenhower, but the two sides never could agree on the details of a pact. At the end of 1962, Khrushchev wrote Kennedy of his desire to create such an agreement. Meanwhile, Kennedy's statements began to take a softer stance toward his Soviet adversaries.</p>
@@ -8,4 +10,4 @@
 
 <p>To read and listen to Kennedy's address at American University, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3374"">here</a>.</p>
 
-<p>For more information, please visit the <a href=""../kennedy"">John Fitzgerald Kennedy home page</a>.</p><h4>John Fitzgerald Kennedy</h4>
+<h4>John Fitzgerald Kennedy</h4>

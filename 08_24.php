@@ -1,5 +1,7 @@
 
-<h2>1814-08-24 12:00 PM</h2><h1>British Troops Set Fire to White House</h1>
+<p>/images/academic/americanpresident/essayimages/08_24.jpg</p>
+<h2>1814-08-24 12:00 PM</h2>
+<h1>British Troops Set Fire to White House</h1>
 
 <p>On August 24, 1814, during the War of 1812, British troops invaded Washington, D.C., and set the White House, the Capitol, and other federal buildings on fire. The city had been evacuated before the British arrived with President James Madison and his administration leaving the capital city to flee the invading soldiers.</p> 
 <p>During the war, British and American troops clashed up and down the East Coast, from Canada down to New Orleans. The war began after President Madison requested a declaration of war from Congress to protect American ships on the open seas and to try to stop the British practice of impressments, the seizure of U.S. sailors for service in Britain's Navy.</p> 
@@ -8,4 +10,4 @@
 <p>First Lady Dolley Madison resisted the calls to evacuate. When she finally left, she made sure that a portrait of George Washington by Gilbert Stuart was removed from the White House and stored safely. She also took several important cabinet documents with her when she departed. As the British troops headed toward to capital, Monroe stayed to help with the city's evacuation. Once the British troops entered the city, they torched the White House and most other federal buildings in retaliation for the burning of the Canadian Parliament buildings in York.</p> 
 <p>The United States was ultimately victorious in the War of 1812, and the Treaty of Ghent was signed by both countries in December 1814. Washington, D.C., was gradually rebuilt. It took three years to rebuild the White House, and in October 1817, President James Monroe moved back into the reconstructed White House.</p>  
 
-<p>For more information, please visit the <a href=""../madison"">James Madison home page</a>.</p><h4>James Madison</h4>
+<h4>James Madison</h4>

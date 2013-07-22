@@ -1,5 +1,7 @@
 
-<h2>1917-04-06 12:00 PM</h2><h1>United States Declares War on Germany</h1>
+<p>/images/academic/americanpresident/essayimages/04_06.jpg</p>
+<h2>1917-04-06 12:00 PM</h2>
+<h1>United States Declares War on Germany</h1>
 
 <p>On April 6, 1917, the United States declared war on Germany. Although President Woodrow Wilson had campaigned for reelection in 1916 emphasizing how he had kept the United States out of the war, he soon realized that the United States could not stand by and remain neutral in the Great War.</p> 
 <p>At the end of January 1917, German U-Boats resumed unrestricted submarine warfare, attacking ships in the Atlantic Ocean. Shortly afterwards, the British released the Zimmermann telegram to the American government. The telegram revealed a German plot to try to entice Mexico into joining against the United States. President Wilson told the nation at his second inaugural on March 5 that he felt the United States had no control over its neutral status and that outside pressures “have drawn us more and more irresistibly into their current and influence.”</p>
@@ -8,4 +10,4 @@
 
 <p>To read the full proclamation from April 6, 1917, declaring a state of war between the United States and Germany, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3798"">here</a>.</p>
 
-<p>For more information, please visit the <a href=""../wilson"">Woodrow Wilson home page</a>.</p><h4>Woodrow Wilson</h4>
+<h4>Woodrow Wilson</h4>

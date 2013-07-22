@@ -1,5 +1,7 @@
 
-<h2>1887-02-08 12:00 PM</h2><h1>Cleveland Signs Dawes Act</h1>
+<p>/images/academic/americanpresident/essayimages/02_08.jpg</p>
+<h2>1887-02-08 12:00 PM</h2>
+<h1>Cleveland Signs Dawes Act</h1>
 
 <p>On February 8, 1887, President Grover Cleveland signed the General Allotment Act into law. The law, commonly known as the Dawes Act after Senator Henry L. Dawes of Massachusetts who proposed it, divided tribal lands of Native Americans into individual allotments and encouraged the assimilation of Native Americans into American society.</p> 
 <p>In 1881, Helen Hunt Jackson published <em>A Century of Dishonor</em>, detailing the federal government's mistreatment of American Indians. Her work created a strong general sentiment for reform of the government's policy toward Native Americans. Senator Dawes proposed the General Allotment Act in 1886 to attempt to put an end to the abuses described in Jackson's book.</p>
@@ -8,4 +10,4 @@
 <p>In general, the supporters of the Dawes Act (including Helen Hunt Jackson) genuinely believed that the act would improve the situation in which American Indians found themselves. Cleveland viewed himself as a protector of the Indians and believed that they would benefit greatly in adopting the norms of American life.</p>
 <p>The actual effects of the act were far from beneficial for American Indians. The tradition of tribal lands was a central feature of American Indian culture. The Dawes Act dissolved tribal structure and was a general failure in its attempt to assimilate Indians. In addition to creating greater mistrust among Indians for the U.S. government, the act's provision to allow the government to sell remaining land after allotments were made significantly depleted the quantity of land American Indians held. This was, incidentally, one of the law's goals, as American settlers and rail road entrepreneurs had pressured the President to reduce the quantity of land in reservations, feeling that the federal government had provided Native Americans with more land than they needed. The Dawes Act was a disastrous policy that robbed Native Americans of much of their land and did little to improve their way of life.</p>
 
-<p>For more information, please visit the <a href=""../cleveland"">Grover Cleveland home page</a>.</p><h4>Grover Cleveland</h4>
+<h4>Grover Cleveland</h4>

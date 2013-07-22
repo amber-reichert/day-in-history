@@ -1,5 +1,7 @@
 
-<h2>2009-01-20 12:00 PM</h2><h1>Barack Obama Inaugurated</h1>
+<p>/images/academic/americanpresident/essayimages/01_20.jpg</p>
+<h2>2009-01-20 12:00 PM</h2>
+<h1>Barack Obama Inaugurated</h1>
 
 <p>On January 20, 2009, Barack Obama was inaugurated as the 44th President of the United States. He was the first African American President in U.S. history. </p>
 <p>Obama emerged as an unlikely candidate during the 2008 presidential campaign. He was born and raised in Hawaii. His mother, a white American from Kansas, and his father, a black Kenyan studying in the United States, met as students at the University of Hawaii. After attending school in Hawaii, Obama moved to the mainland for college&mdash;first attending Occidental College in Los Angeles, California, and then graduating from Columbia University in New York City.</p> 
@@ -8,4 +10,4 @@
 <p>After serving as a state legislator for eight years, Obama ran for the U.S. Senate and won the election in 2004 by the largest margin in the history of Senate elections in Illinois. As a first-term Senator, he launched his presidential campaign in February 2007. After a hard-fought Democratic primary against Senator and former First Lady Hillary Clinton, Obama secured the Democratic Party nomination in June 2008. Two days before the Democratic National Convention, he picked Senator Joseph Biden of Delaware as his vice presidential running mate.</p>
 <p>The 2008 presidential campaign featured the Democratic ticket of Barack Obama and Joseph Biden against the Republican ticket of Senator John McCain of Arizona and his vice presidential running mate, Governor Sarah Palin of Alaska. Obama and Biden won the election handily, 53 percent of the popular vote to 46 percent and 365 Electoral College votes to 173. </p>
 
-<p>For more information, please visit the <a href=""../obama"">Barack Obama home page</a>.</p><h4>Barack Obama</h4>
+<h4>Barack Obama</h4>

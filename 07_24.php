@@ -1,5 +1,7 @@
 
-<h2>1974-07-24 12:00 PM</h2><h1><em>United States</em> v. <em>Nixon</em> Decided</h1>
+<p>/images/academic/americanpresident/essayimages/07_24.jpg</p>
+<h2>1974-07-24 12:00 PM</h2>
+<h1><em>United States</em> v. <em>Nixon</em> Decided</h1>
 
 <p>On July 24, 1974, the Supreme Court ruled in an 8-0 decision that President Richard Nixon had to turn over sixty-four tapes, which disclosed his knowledge and participation in the cover-up of the Watergate burglary. The conversations on the tapes implicated Nixon and led to his resignation, the first time in United States history a President had resigned.</p>  
 <p>The Watergate scandal began when five men were arrested for breaking into the office of the Democratic National Committee on June 17, 1972. Initially it was unclear if there was any connection between the burglary and the Nixon administration but gradually it was revealed that the White House was involved.</p>
@@ -10,4 +12,4 @@
 <p>In a televised speech on the night of August 8, 1974, President Richard Nixon announced his intention to resign at noon the next day. Although he conceded he had made some wrong judgments, he did not admit to any wrongdoing. Vice President Gerald Ford was sworn in as President the next day, remarking in his inaugural address, “My fellow Americans, our long national nightmare is over.”</p>
 <p>Nixon's resignation marked the first such act by a President in U.S. history. Among its many implications, the resignation confirmed that no individual-regardless of rank or station-was above the law, and that there were real consequences for those who violated the law willfully. As for its political impact, the resignation chipped away at the aura of the presidency and the public's trust in government.</p>
 
-<p>For more information, please visit the <a href=""../nixon"">Richard Milhous Nixon home page</a>.</p><h4>Richard Milhous Nixon</h4>
+<h4>Richard Milhous Nixon</h4>

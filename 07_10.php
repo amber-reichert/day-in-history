@@ -1,4 +1,6 @@
-<h2>1832-07-10 12:00 PM</h2><h1>Jackson Vetoes Bank Bill</h1>
+<p>/images/academic/americanpresident/essayimages/07_10.jpg</p>
+<h2>1832-07-10 12:00 PM</h2>
+<h1>Jackson Vetoes Bank Bill</h1>
 
 <p>On July 10, 1832, President Andrew Jackson vetoed a bill that would have renewed the corporate charter for the Second Bank of the United States. It was one of the most definitive acts of his presidency.</p>
 
@@ -14,4 +16,4 @@
 
 <p>To read the full text of Jackson's veto message, click <a href=""/scripps/archive/speeches/detail/3636"">here</a>.</p>
 
-<p>For more information, please visit the <a href=""../jackson"">Andrew Jackson home page</a>.</p><h4>Andrew Jackson</h4>
+<h4>Andrew Jackson</h4>

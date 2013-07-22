@@ -1,5 +1,7 @@
 
-<h2>1961-08-13 12:00 PM</h2><h1>Berlin Wall Started</h1>
+<p>/images/academic/americanpresident/essayimages/08_13.jpg</p>
+<h2>1961-08-13 12:00 PM</h2>
+<h1>Berlin Wall Started</h1>
 
 <p>On August 13, 1961, East Germany began constructing a wall between the two sections of Berlin. The city, surrounded by Soviet-supported East Germany, had remained divided between the Soviet Union, the United States, Britain, and France since the end of World War II. Refugees from East Germany and the eastern section of Berlin had been flooding into the western section of Berlin, creating an embarrassment for the Soviet and East German governments.</p>  
 <p>In June 1961, President John Kennedy met with Soviet premier Nikita Khrushchev in Vienna, Austria, but the conference failed to resolve the long-standing conflict over the status of Berlin. Khrushchev wanted the United States, Britain, and France to leave the western section of Berlin to Soviet-controlled East Germany since the city lay deep in the heart of East Germany. He threatened that he would disregard the Western Allies and make an unilateral treaty with East Germany if the status of Berlin was not resolved.</p> 
@@ -7,4 +9,4 @@
 <p>The Berlin Wall ended the movement of East German citizens into West Berlin. In an impromptu protest, thousands of Berliners gathered on both sides of the new barricade. Kennedy was under pressure to act, but privately expressed an unwillingness to go to war over East Germany's right to close its own boarders. He quickly sent General Lucius Clay and Vice President Lyndon Johnson as his personal ambassadors to Berlin to demonstrate the strength of Washington's commitment. Finally, Kennedy sent a force of 1,500 troops across East Germany into West Berlin. While largely symbolic, these actions demonstrated to the Soviets that the United States was committed to supporting West Berlin. With this demonstration of American solidarity with West Berlin, Khrushchev ended his threats of a separate East German treaty.</p>
 <p>The construction of the wall provided the Cold War with a tangible incarnation of the Iron Curtain and marked the beginning of a de facto agreement between the superpowers. Both the United States and the Soviet Union allowed the city to remain divided and limited their action to protecting their sphere of Berlin. The resolution of the Berlin crises represented the end of an important point of conflict in the Cold War.</p>
 
-<p>For more information, please visit the <a href=""../kennedy"">John Fitzgerald Kennedy home page</a>.</p><h4>John Fitzgerald Kennedy</h4>
+<h4>John Fitzgerald Kennedy</h4>

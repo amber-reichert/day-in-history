@@ -1,5 +1,5 @@
 
-<h1><em>Marbury</em> v. <em>Madison</em> Decided</h1><h2>1803-02-24 12:00 PM</h2>
+<h2>1803-02-24 12:00 PM</h2><h1><em>Marbury</em> v. <em>Madison</em> Decided</h1>
 
 <p>On February 24, 1803, the Supreme Court of the United States issued its unanimous ruling in <em>Marbury</em> v. <em>Madison</em>, one of the most important Supreme Court cases in early American history. This ruling established for the first time the principle that the Supreme Court can declare an act of Congress void if it is inconsistent with the Constitution. This landmark case established the basis for judicial review of congressional and executive actions on the grounds of their constitutionality.</p> 
 <p>Thomas Jefferson's election as President in 1800 came after a bitter partisan struggle between Federalists and Republicans. Republicans won both the presidency and a majority in Congress. Before leaving early in 1801, the Federalist Congress passed a new Judiciary Act that created new judgeships, which enabled outgoing President John Adams to appoint numerous additional Federalists to the judiciary. On his last day in office, Adams worked late into the night signing commissions for new judgeships.</p>
@@ -7,4 +7,4 @@
 <p>In 1803, Judge Marshall issued a clever ruling, noting that Marbury had a right to his commission, but explaining that the Supreme Court had no jurisdiction in the matter. Because the Constitution did not explicitly grant the Court power to issue writs to government officials, the Judiciary Act of 1789 was unconstitutional. Recognizing the importance of separation of powers, however, he allowed that certain political actions of the executive fell beyond court jurisdiction.</p>
 <p>In <em>Marbury</em> v. <em>Madison</em>, the Supreme Court for the first time declared an act of Congress unconstitutional; it would not do so again until the infamous <em>Dred Scott</em> case in 1857. Technically, Marshall let Jefferson win the battle and protected some executive action from judicial review. His ruling announced in ringing terms, however, that the Supreme Court would assume the role of guardian of the Constitution and the nation's laws, providing a forceful check on Congress.</p>
 
-<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a>.</p><h4>Thomas Jefferson</h4>

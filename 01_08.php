@@ -1,4 +1,4 @@
-<h1>The Fourteen Points</h1><h2>1918-01-8 12:00 PM</h2>
+<h2>1918-01-08 12:00 PM</h2><h1>The Fourteen Points</h1>
 	
 <p>On January 8, 1918, President Woodrow Wilson gave a speech to Congress in which he presented his Fourteen Points that outlined his program of peace to end World War I. The first five points called for an end to secret treaties, freedom of the seas, free trade, reduction of arms, and adjustment of colonial claims, taking into account the wishes of the colonial population. Wilson's sixth point called for Germany to withdraw from Russian territory and for Russian self-determination of its own government. The President then called for the restoration of Belgian, Italian, and French borders, the establishment of a Polish state, and autonomy for the ethnic peoples of the Austro-Hungarian and Ottoman empires. Wilson's final and, in his mind, most important point was the establishment of a "general association of nations" that would foster international cooperation, freedom, and peace.</p>
 
@@ -10,4 +10,4 @@
 
 <p>Still, as a work of international relations policy, Wilson's Fourteen Points represent one of the most remarkable efforts of an American President. Wilson's embrace of anti-imperialism and national self-determination made a lasting impact in international relations through the rest of the 20th century. </p>
 
-<p>For more information, please visit the <a href="../wilson">Woodrow Wilson home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../wilson">Woodrow Wilson home page</a>.</p><h4>Woodrow Wilson</h4>

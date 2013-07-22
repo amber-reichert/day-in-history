@@ -1,5 +1,5 @@
 
-<h1>Monroe Doctrine Announced</h1><h2>1823-12-2 12:00 PM</h2>
+<h2>1823-12-02 12:00 PM</h2><h1>Monroe Doctrine Announced</h1>
 
 <p>On December 2, 1823, President James Monroe formally articulated a foreign policy position that became known as the "Monroe Doctrine." Although it only occupied three paragraphs in the President's annual address to Congress, the Monroe Doctrine was one of the most influential foreign policy statements made by an American President and it remained a touchstone of American foreign policy into the twentieth century.</p>
 <p>During much of Monroe's administration, Spanish colonies in Latin America had broken free from the colonial power. When rumors began to circulate that Spain was going to try to reclaim her colonies with the help of her allies, the United States grew alarmed. By November 1823, President Monroe had decided that the United States needed to issue a unilateral declaration in response to the prospect of the Spanish monarchy attempting to recover its colonial empire in the Americas. Secretary of State John Quincy Adams was primarily responsible for the ideas and content concerning foreign policy in Monroe's annual address.</p>  
@@ -7,4 +7,4 @@
 <p>The principles of the Monroe Doctrine met with a positive reception in Congress and with the general population. While popular at the time, the Monroe Doctrine acquired greater significance with the passage of time. Presidents invoked the Monroe Doctrine in order to justify a number of actions, whether to limit the influence of a European power in Latin America, or to attempt to affect political outcomes within the Latin American states themselves. This has been true of nineteenth-century Presidents, such as James Polk, and twentieth-century Presidents, notably Theodore Roosevelt. Although conceived as a response to a contemporary crisis, the Monroe Doctrine, reinterpreted by subsequent generations, proved to be a durable statement of the ideology and principles underlying American foreign policy.</p>
 
 <p>To read the full text of President Monroe's Seventh Annual Message to Congress, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3604">here</a>.</p>
-<p>For more information, please visit the <a href="../monroe">James Monroe home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../monroe">James Monroe home page</a>.</p><h4>James Monroe</h4>

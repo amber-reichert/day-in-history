@@ -1,5 +1,5 @@
 
-<h1>U.S. Concludes Treaty with China</h1><h2>1880-11-17 12:00 PM</h2>
+<h2>1880-11-17 12:00 PM</h2><h1>U.S. Concludes Treaty with China</h1>
 
 <p>On November 17, 1880, the United States signed a treaty with China that gave the United States power to "regulate, limit, or suspend" but not completely prohibit Chinese immigration. The treaty also included a clause banning the opium trade and granted China trading privileges with the United States.</p>
 <p>In 1868, the United States and China had signed the Burlingame Treaty, which secured unrestricted Chinese immigration to America. The United States had welcomed Chinese immigrants when the West Coast badly needed workers, and the labor those immigrants provided played a major role in the construction of the first transcontinental railroad.  During the 1870s, however, economic woes and the Great Railroad Strike in 1877 had greatly agitated anti-Chinese sentiment in the West, and pressure on Congress to restrict Chinese immigration made the issue a bipartisan one.</p>
@@ -7,4 +7,4 @@
 <p>China was under significant pressure at the time. Local reformers and European powers occupied the Chinese government's attention. In negotiations with the United States, the Chinese only objected to a complete prohibition of immigration. The treaty instead gave the United States the right to limit, but not completely prohibit, immigration. China also obtained a clause in the treaty that prohibited the opium trade.</p>
 <p>President Hayes was no longer in office when the new treaty was ratified in1881. However, the agreement proved inadequate to satisfy West Coast demands. Pressure from the West Coast and labor organizations such as the Knights of Labor resulted in the passage of a Chinese Exclusion Act in 1882 stipulating a twenty-year ban on immigration. After President Chester Arthur vetoed the measure, Congress passed a ten-year ban that received his approval.</p>
 
-<p>For more information, please visit the <a href="../hayes">Rutherford Birchard Hayes home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../hayes">Rutherford Birchard Hayes home page</a>.</p><h4>Rutherford Birchard Hayes</h4>

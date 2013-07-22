@@ -1,5 +1,5 @@
 
-<h1>Embassies in Kenya and Tanzania Bombed</h1><h2>1998-08-7 12:00 PM</h2>
+<h2>1998-08-07 12:00 PM</h2><h1>Embassies in Kenya and Tanzania Bombed</h1>
 
 <p>The morning news on August 7, 1998, greeted Americans with a shocking report: a truck bomb had demolished the U.S. embassy in downtown Nairobi, Kenya. More than 200 people, twelve of them American citizens, had been killed. Minutes later, another truck bomb went off outside the American embassy in Dar es Salaam, Tanzania, killing eleven people. The combined attacks resulted in more than 5,000 injuries.</p>
 <p>Investigators, working closely with officials in both embassy nations, ultimately picked up six operatives (and indicted several others) connected with <em>Al Qaeda</em> (the base), a loosely knit Islamic fundamentalist, anti-American organization headed by the wealthy former Saudi, Osama bin Laden. In August 1996, bin Laden issued a <em>fatwa</em> (Islamic decree) against the United States, demanding holy war and attacks on American troops. A year and a half later, bin Laden urged his followers to expand their sights to include all American throughout the world.</p>
@@ -7,4 +7,4 @@
 <p>In retrospect, it is clear that these attacks were precursors to the September 11 attacks in the United States. The embassy bombings confirmed to Americans the treachery of shadowy, able, and committed opponents who refused to distinguish between military and civilian personnel. They were yet another example of the frightening and uncertain dimensions of post-Cold War aggression.</p>
 
 
-<p>For more information, please visit the <a href="../clinton">Bill Clinton home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../clinton">Bill Clinton home page</a>.</p><h4>Bill Clinton</h4>

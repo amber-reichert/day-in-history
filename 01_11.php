@@ -1,5 +1,5 @@
 
-<h1>Grand Canyon Becomes National Monument</h1><h2>1908-01-11 12:00 PM</h2>
+<h2>1908-01-11 12:00 PM</h2><h1>Grand Canyon Becomes National Monument</h1>
 	
 <p>On January 11, 1908, President Theodore Roosevelt designated the Grand Canyon in northwest Arizona a national monument. Roosevelt used the American Antiquities Act of 1906 to create 18 national monuments during his presidency. The Grand Canyon became a national park in 1919.</p>
 <p>Roosevelt was the nation's first conservationist President. Everywhere he went, he preached the need to preserve woodlands and mountain ranges as places of refuge and retreat. He used his presidential authority to issue executive orders to create 150 new national forests, increasing the amount of protected land from 42 million acres to 172 million acres. Along with the 18 national monuments, the President also created 5 national parks and 51 wildlife refuges during his tenure.</p>
@@ -8,4 +8,4 @@
 <p>Pinchot was a strong advocate for more federal power to protect wilderness in the United States, particularly in the West. With his prodding, President Roosevelt secured the Transfer Act in 1905, which shifted the responsibility of managing federal forests from the Department of the Interior to the Department of Agriculture and the Division of Forestry, later remained the Forest Service. As head of the Forest Service, Pinchot staffed it with scientists, not bureaucrats, and Pinchot and his team added millions of acres of western land to federal holdings.</p>
 <p>During the early 1900s, conservation became a new and increasingly popular agenda for the federal government, due to President Roosevelt's energetic promotion of the issue. </p>
 
-<p>For more information, please visit the <a href="../roosevelt">Theodore Roosevelt home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../roosevelt">Theodore Roosevelt home page</a>.</p><h4>Theodore Roosevelt</h4>

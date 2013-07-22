@@ -1,5 +1,5 @@
 
-<h1>"Black Friday"</h1><h2>1869-09-24 12:00 PM</h2>
+<h2>1869-09-24 12:00 PM</h2><h1>"Black Friday"</h1>
 
 <p>September 24, 1869, became known as &quot;Black Friday&quot; when a financial panic began in New York City after the price of gold crashed and caused financial ruin for many investors.</p> 
 <p>In 1869, the price of gold in the volatile New York market was determined primarily by how much of the metal the government sold per month. Jay Gould and Jim Fisk, two investors who controlled the Erie Railroad, recognized that it was possible to corner the gold market by either predicting or influencing the government's sales. Gould and Fisk began to work on a plot to purchase gold and drive up the price with the help of the government, and then sell their supplies for an immense profit before the inflated price crashed.</p>
@@ -7,4 +7,4 @@
 <p>Grant eventually became aware of their intentions and instructed Treasury Secretary George Boutwell to sell government gold reserves to lower the price and foil Gould and Fisk. On September 24, Fisk's continued purchases had driven the price of gold to $162 an ounce (Gould found out about Grant's discovery of the plan from Corbin and had quietly begun to sell) when Boutwell announced that the government would sell $4 million in gold.  Within minutes, the price dropped to $133. Grant had been successful in preventing Gould and Fisk from cornering the market, but the affair had a devastating effect on the economy. Stock prices fell and trading diminished, brokerages went bankrupt, and prices for agricultural goods dropped sharply.</p>
 <p>Grant received criticism for the affair, which had a particularly devastating effect on farmers as the prices of crops tumbled. Grant's meetings with Gould and Fisk prior to the affair also served to hurt the President's reputation. While Gould and Fisk were prevented from cornering the market through Grant's intervention, their excellent legal defense and connections with judges enabled them to emerge from the disaster without penalty and with their large fortunes intact.</p>  
 
-<p>For more information, please visit the <a href="../grant">Ulysses Simpson Grant home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../grant">Ulysses Simpson Grant home page</a>.</p><h4>Ulysses Simpson Grant</h4>

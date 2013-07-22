@@ -1,5 +1,5 @@
 
-<h1><em>Lusitania</em> Sinks</h1><h2>1915-05-7 12:00 PM</h2>
+<h2>1915-05-07 12:00 PM</h2><h1><em>Lusitania</em> Sinks</h1>
 
 <p>On May 7, 1915, the German submarine <em>U-20</em> torpedoed the British luxury liner <em>Lusitania</em> within sight of the Irish coast. The largest passenger ship in wartime transatlantic service at the time, the <em>Lusitania</em> was struck by a single torpedo and sank in twenty minutes after a second internal explosion. Of the more than 1,900 people on board, nearly 1,200 died, including 128 Americans.</p> 
 <p>After the outbreak of World War I in Europe in the summer of 1914, Britain laid a blockade upon German ports. In response, Germany deployed experimental attack submarines, called U-boats, in the Atlantic Ocean. The German government declared the waters around the British Isles a war zone in February 1915 and cautioned that its U-boats would sink any ship entering the zone without warning. Germany justified the action of unrestricted submarine warfare by claiming that Britain had violated its own freedom of the seas with the blockade. The German government also argued, correctly, that the British used neutral and civilian ships to transport munitions.</p>
@@ -9,4 +9,4 @@
 <p>Germany never accepted culpability for the loss of the <em>Lusitania</em>. While the German government maintained its position that it sank the ship within the conventions of war, it wanted to keep the United States from entering the war and issued secret orders to its submarine captains to stop sinking large passenger liners. Nevertheless, the <em>Lusitania</em> issue remained a lingering sore spot in American-German relations as the two nations drifted closer to war.</p>
 
 
-<p>For more information, please visit the <a href="../wilson">Woodrow Wilson home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../wilson">Woodrow Wilson home page</a>.</p><h4>Woodrow Wilson</h4>

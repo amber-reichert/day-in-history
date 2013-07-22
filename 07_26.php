@@ -1,5 +1,5 @@
 
-<h1>Truman Orders Desegregation of Armed Forces</h1><h2>1948-07-26 12:00 PM</h2>
+<h2>1948-07-26 12:00 PM</h2><h1>Truman Orders Desegregation of Armed Forces</h1>
 
 <p>On July 26, 1948, President Harry S. Truman issued an executive order to desegregate the armed forces. Executive Order 9981 created the Committee on Equality of Treatment and Opportunity in the Armed Services.</p> 
 <p>There was great resistance to this order among Army officers. Army chief of staff Omar Bradley declared that "the Army is not out to make any social reform." It was Bradley's contention that the Army "will not put men of different races in the same companies." The armed forces did not seriously implement Truman's order until the Korean War began in 1950, and desegregation of the Army was not completed until 1954. Even then, however, the Army's officer corps remained predominantly white.</p>
@@ -7,4 +7,4 @@
 <p>Still, Truman remained cautious in supporting civil rights as there was considerable opposition within his own party. At the July 1948 Democratic Convention, liberals challenged the party's vague civil rights platform, replacing it with a more activist program. This led delegates from Alabama and Mississippi to walk out of the convention and form the States' Rights Democratic or "Dixiecrat" party. After the convention, Truman issued the executive orders desegregating the armed forces and the civil service, his strongest actions in support of civil rights.</p>
 <p>There was good political reason for Truman to desegregate the armed forces: he needed black votes to win reelection in November. As the Dixiecrat revolt demonstrated, there were also political risks involved in his support of civil rights. Truman's actions, while minor in light of the broad-based oppression suffered by African Americans, amounted to an important symbolic endorsement of civil rights and helped secure the allegiance of black Americans to the Democratic Party-a process begun during the presidency of Truman's predecessor, Franklin D. Roosevelt.</p>
 
-<p>For more information, please visit the <a href="../truman">Harry S. Truman home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../truman">Harry S. Truman home page</a>.</p><h4>Harry S. Truman</h4>

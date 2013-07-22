@@ -1,5 +1,5 @@
 
-<h1>Pearl Harbor Attacked</h1><h2>1941-12-7 12:00 PM</h2>
+<h2>1941-12-07 12:00 PM</h2><h1>Pearl Harbor Attacked</h1>
 
 <p>On December 7, 1941, the Japanese launched a surprise attack against the United States at the Pearl Harbor naval base in Hawaii. After the Pearl Harbor attack, the United States quickly entered World War II, declaring war against Japan the next day.</p>
 <p>After Japan attacked China in 1937, the United States worked with other Western nations to try to contain and isolate Japan economically and politically although it had not yet entered World War II. President Franklin Roosevelt thought this strategy would let him deal with what he saw as the more pressing German problem. He also knew that it would be difficult for the United States to prepare for and fight wars simultaneously in Asia and Europe.</p>
@@ -8,4 +8,4 @@
 <p>The next day, President Roosevelt appeared before a special joint session of Congress. He called December 7 "a date which will live in infamy," and asked for a declaration of war against Japan, which Congress supported. Three days later, Germany and Italy declared war on the United States. The United States had finally entered World War II as a participant, following several years as an interested and active bystander. The country would never be the same.</p> 
 
 <p>To read President Roosevelt's Address to Congress Requesting a Declaration of War on December 8, 1941, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3324">here</a>.</p>
-<p>For more information, please visit the <a href="../fdroosevelt">Franklin Delano Roosevelt home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../fdroosevelt">Franklin Delano Roosevelt home page</a>.</p><h4>Franklin Delano Roosevelt</h4>

@@ -1,5 +1,5 @@
 
-<h1>John Brown's Raid</h1><h2>1859-10-16 12:00 PM</h2>
+<h2>1859-10-16 12:00 PM</h2><h1>John Brown's Raid</h1>
 
 <p>On the night of October 16, 1859, John Brown and twenty-one men attempted to raid the federal armory and arsenal in Harper's Ferry, Virginia (now West Virginia). Their plan was to capture the armory and arsenal and recruit slaves to rise and join them. Once Brown and his men armed the slaves with guns from the arsenal, they hoped to head south to free more slaves and eventually destroy slavery.</p>
 <p>At the start of their attack, Brown and his men cut telegraph wires and seized federal property. They captured two masters and ten slaves, and briefly detained a Baltimore and Ohio train and inadvertently killed the black baggage master. The conductor reported the raid to authorities in Washington, D.C. By dawn on October 17, Brown and his raiders were holed up inside an engine house with the local militia, angry townspeople, and farmers laying siege to the building. No slaves had escaped to join them.</p>
@@ -8,4 +8,4 @@
 <p>In his annual message to Congress, in December 1859, President Buchanan declared that the raid on Harper's Ferry symbolized "an incurable disease in the public mind." That "disease," he predicted, might end up "in an open war by the North to abolish slavery in the South." Buchanan added that he did not share Southerners' agitation over John Brown but gave no reassurances.</p> 
 <p>Buchanan, ever conciliatory, tried not to alienate anyone–either secessionist or unionist–but pleased no one. By refusing to take a firm stand on either side of the slavery issue, Buchanan failed to resolve the question, leaving his nation's gravest crisis to his successor. Indeed, Buchanan's passivity is considered by many historians to have been a prime contributing factor in the coming of the Civil War.</p>
 
-<p>For more information, please visit the <a href="../buchanan">James Buchanan home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../buchanan">James Buchanan home page</a>.</p><h4>James Buchanan</h4>

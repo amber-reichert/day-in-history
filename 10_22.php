@@ -1,5 +1,5 @@
 
-<h1>Kennedy Announces Cuban Missile Crisis</h1><h2>1962-10-22 12:00 PM</h2>
+<h2>1962-10-22 12:00 PM</h2><h1>Kennedy Announces Cuban Missile Crisis</h1>
 
 <p>On October 22, 1962, President John Kennedy announced in a nationally televised address that the United States had discovered the Soviet Union was building "offensive missile sites" on the island of Cuba. The President warned that the purpose of the Soviet missiles in Cuba could be "none other than to provide a nuclear strike capability against the Western Hemisphere" and that he would protect the United States from such a threat no matter what the cost. He explained the U.S. Navy would impose a "quarantine" or naval blockade around Cuba with the support of the Organization of American States.</p>  
 <p>The Cuban Missile Crisis began on October 14, 1962, when a U-2 surveillance mission flying over Cuba photographed the construction of launch sites for medium and intermediate range ballistic missiles. These missiles, once operational, could deliver nuclear warheads to much of the United States. National Security Advisor McGeorge Bundy informed the President of the discovery the  morning of October 16. Kennedy quickly called a meeting of his top military and diplomatic advisers as well as his most trusted confidants like Theodore Sorensen and his brother, Attorney General Robert Kennedy. This group became known as the Executive Committee of the National Security Council or ExComm.</p> 
@@ -10,4 +10,4 @@
 
 <p>To read and listen to the full text of President Kennedy's Address on the Buildup of Arms in Cuba, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3372">here</a>.</p>
 
-<p>For more information, please visit the <a href="../kennedy">John Fitzgerald Kennedy home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../kennedy">John Fitzgerald Kennedy home page</a>.</p><h4>John Fitzgerald Kennedy</h4>

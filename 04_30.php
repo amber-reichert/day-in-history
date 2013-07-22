@@ -1,5 +1,5 @@
 
-<h1>Louisiana Purchase Treaty Signed</h1><h2>1803-04-30 12:00 PM</h2>
+<h2>1803-04-30 12:00 PM</h2><h1>Louisiana Purchase Treaty Signed</h1>
 
 <p>On April 30, 1803, representatives from the United States and France signed the Louisiana Purchase Treaty. The terms of the agreement gave all of the Louisiana territory from the Mississippi River to the Rocky Mountains to the United States. The Louisiana Purchase doubled the size of the United States and is considered one of President Thomas Jefferson's greatest presidential accomplishments.</p>
 <p>In 1800, President Jefferson learned that Spain had secretly ceded Louisiana to France, and he was concerned about France attempting to reclaim its North American empire. Jefferson wanted to insure that American farmers in the Ohio River Valley had access to the Gulf of Mexico via the Mississippi River–the river was a key to the farmers' economic well-being.</p>
@@ -7,4 +7,4 @@
 <p>Delighted with the deal but troubled because the Constitution did not specifically provide for the acquisition of new territory, Jefferson considered a constitutional amendment to allow the purchase. Napoleon threatened to withdraw the deal if not soon ratified, however, and so Jefferson sent the treaty to the Senate for approval. Federalists were furious at Jefferson's seeming hypocrisy, as he had long criticized them for not strictly interpreting the Constitution.</p>
 <p>The constitutional dilemma for the President was substantial. While believing that the United States must expand to fulfill its republican destiny, he was the first to assert the Constitution did not authorize acquiring new territory. As would be the case in numerous issues during his presidency, Jefferson was forced seek a balance between sometimes conflicting principles. In this case, President Jefferson chose expediency and national interest when he submitted the Louisiana Purchase Treaty to the Senate. The Senate ratified the treaty in October 1803.</p>
 
-<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a>.</p><h4>Thomas Jefferson</h4>

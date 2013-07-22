@@ -1,5 +1,5 @@
 
-<h1>Burr Kills Hamilton in Duel</h1><h2>1804-07-11 12:00 PM</h2>
+<h2>1804-07-11 12:00 PM</h2><h1>Burr Kills Hamilton in Duel</h1>
 
 <p>On July 11, 1804, Aaron Burr and Alexander Hamilton met for duel, and Burr shot and fatally wounded Hamilton, who died the next day. The Burr-Hamilton duel stands as a vivid example that in the early republic partisan politics were also highly personal politics.</p>
 <p>Hamilton and Burr had been political adversaries long before their famous duel. Hamilton, an arch-Federalist and President George Washington's secretary of the Treasury strongly distrusted his fellow New Yorker, and he worked against Federalist efforts to elect Burr over Thomas Jefferson, both Republicans, when they tied in the presidential election of 1800. Burr had served various positions in New York politics and then became Jefferson's vice president in 1801. Republicans felt he was unreliable, however, and dropped him in the next election.</p>  
@@ -7,4 +7,4 @@
 <p>Hamilton had declared the previous evening his intention to fire into the air; whether or not he shot at Burr remained a point of contention for years to follow, but Burr nonetheless escaped unscathed after fatally wounding Hamilton, who died the next day.  After New York and New Jersey both issued warrants for his arrest, Burr went back to the District of Columbia and resumed his position as vice president, presiding over the Senate.</p> 
 <p>As public outrage grew, Burr fled to the west, where from 1805 to 1807 he participated in a vague but ambitious plan to separate the southwest from the United States. The Supreme Court found him not guilty of treason in 1807, and after five years in Europe, Burr returned to New York, where he practiced law in New York until his death in 1836.</p> 
 
-<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../jefferson">Thomas Jefferson home page</a>.</p><h4>Thomas Jefferson</h4>

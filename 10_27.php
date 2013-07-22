@@ -1,5 +1,5 @@
 
-<h1>Proclamation to Occupy West Florida</h1><h2>1810-10-27 12:00 PM</h2>
+<h2>1810-10-27 12:00 PM</h2><h1>Proclamation to Occupy West Florida</h1>
 
 <p>On October 27, 1810, President James Madison issued a proclamation that authorized the U.S. occupation of West Florida, which included land from the Perdido River west along the Gulf Coast to the Mississippi River. Although the President issued the proclamation in October, he did not inform Congress until his annual message in December.</p> 
 <p>Many Americans, including former President Thomas Jefferson and Madison himself, thought that West Florida was included as part of the Louisiana Purchase. The Louisiana Purchase itself implied that West Florida might in fact be a part of the deal, and Jefferson pressed his claim against Spain. Much to his chagrin, in 1804 France insisted West Florida had not been part of the purchase. Spain refused to negotiate with the United States, and as war continued between France and Britain, Spain allied with France. Both France and Britain harassed American shipping, and Madison speculated that Britain might capture Florida to use as a base to attack the United States in the event that the United States joined the war.</p>
@@ -8,4 +8,4 @@
 
 <p>To read the full text of President Madison's Proclamation of the Occupation of West Florida, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3610">here</a>.</p>
 <p>To read the full text of President Madison's Second Annual Message to Congress, in which he informs Congress of the Proclamation, click <a href="http://millercenter.org/scripps/archive/speeches/detail/3609">here</a>.</p>
-<p>For more information, please visit the <a href="../madison">James Madison home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../madison">James Madison home page</a>.</p><h4>James Madison</h4>

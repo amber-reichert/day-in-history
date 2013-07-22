@@ -1,5 +1,5 @@
 
-<h1>Berlin Wall Falls</h1><h2>1989-11-9 12:00 PM</h2>
+<h2>1989-11-09 12:00 PM</h2><h1>Berlin Wall Falls</h1>
 
 <p>On November 9, 1989, East Germany fully opened its borders, including the imposing gate at the Berlin Wall. Thousands of Germans, from both East and West Germany, climbed over the wall and began to dismantle it with shovels and hammers. The jubilant scene illustrated the great changes taking place with the ending of the Cold War.</p>
 <p>Since 1961, the Berlin Wall had stood as a symbolic barrier between the East and West, between communism and democracy: its fall reflected changing international relations. This episode, although memorable, was not the first or last in the relatively swift collapse of communism. Earlier in 1989, Hungary and Austria had opened their border. By spring of 1990, liberal political actors had wrested the governments of Poland, Bulgaria, Romania, Czechoslovakia, Lithuania, and Romania from the hands of communist leaders.</p>
@@ -8,4 +8,4 @@
 <p>It is unlikely that this debate will soon be resolved, but the basic triumph of democracy seems inarguable. President George H. W. Bush embraced the geopolitical upheaval cautiously, and he was criticized for failing to give the moment adequate meaning and communicating its import to the American public. However, the President responded cautiously to try to avoid a backlash by hard-liners in Eastern Europe and the Soviet Union, a stance that well-informed observers applauded. 
 <p>The dismantling of the Berlin Wall was a poignant illustration of the collapse of communism and the end of the Cold War. The world was then faced with restructuring the geopolitical balance that had been in place for more than forty years.</p>
 
-<p>For more information, please visit the <a href="../bush">George Herbert Walker Bush home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../bush">George Herbert Walker Bush home page</a>.</p><h4>George Herbert Walker Bush</h4>

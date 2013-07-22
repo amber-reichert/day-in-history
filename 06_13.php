@@ -1,5 +1,5 @@
 
-<h1>Johnson Nominates Marshall to Supreme Court</h1><h2>1967-06-13 12:00 PM</h2>
+<h2>1967-06-13 12:00 PM</h2><h1>Johnson Nominates Marshall to Supreme Court</h1>
 
 <p> On June 13, 1967, President Lyndon Johnson nominated Thurgood Marshall to be an Associate Justice on the Supreme Court of the United States. When President Johnson nominated Marshall, he remarked, "I believe he earned that appointment; he deserves the appointment. He is best qualified by training and by very valuable service to the country. I believe it is the right thing to do, the right time to do it, the right man and the right place."</p>
 <p>Thurgood Marshall attended Howard University Law School and then went to work for the National Association for the Advancement of Colored People (NAACP), eventually becoming chief counsel for the civil rights organization. He became famous for his civil rights litigation with the NAACP Legal Defense and Educational Fund. He was one of the lawyers who argued before the Supreme Court in <em>Brown v. Board of Education</em>, which was decided in 1954 and ruled that segregated education for blacks and whites was inherently unequal.</p>
@@ -8,4 +8,4 @@
 <p>After significant delays, Marshall finally received a hearing before the Senate Judiciary Committee and faced a barrage of hostile questions from southern senators. Some tried to paint him as a radical or a Communist, while Strom Thurmond of South Carolina tested Marshall with obscure legal and historical queries. Despite this opposition, the Judiciary Committee voted Marshall's nomination to the full floor of the Senate. In the floor vote, Johnson used his influence to convince twenty southern senators not to vote on the matter. Their absence assured Marshall's confirmation.</p>
 <p>On October 2, 1967, Marshall became the ninety-sixth justice of the Supreme Court.  He was the first African American to serve on the Supreme Court. Marshall remained on the court for twenty-four years, providing an increasingly unaccompanied liberal voice on the law. Marshall's appointment to the court was a symbolic and significant action in moving the nation toward racial equality.</p>
 
-<p>For more information, please visit the <a href="../lbjohnson">Lyndon Baines Johnson home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../lbjohnson">Lyndon Baines Johnson home page</a>.</p><h4>Lyndon Baines Johnson</h4>

@@ -1,5 +1,5 @@
 
-<h1>John Quincy Adams Elected President</h1><h2>1825-02-9 12:00 PM</h2>
+<h2>1825-02-09 12:00 PM</h2><h1>John Quincy Adams Elected President</h1>
 
 <p>On February 9, 1825, the House of Representative elected John Quincy Adams as the sixth President of the United States after the electoral college failed to produce a winner. The 1824 election was one of only three presidential elections in which that scenario occurred (1800, 1824, and 1876). With no candidate having an outright majority, the Twelfth Amendment of the Constitution placed the election in the hands of the House of Representatives, which then decided from among the top three candidates. In 1825, the House elected John Quincy Adams, but the resulting controversy haunted him for the entirety of his term and was a factor in his defeat for reelection in 1828.</p>
 <p>After James Monroe's reelection in 1820, the Federalists had collapsed as a national opposition party, and nearly every national political figure was a member of the same party-the Jeffersonian Republicans. By the 1824 election, no front runner had emerged to succeed Monroe. Five candidates were in the running: Secretary of State John Quincy Adams of Massachusetts, Secretary of the Treasury William H. Crawford of Georgia, Speaker of the House Henry Clay of Kentucky, Secretary of War John C. Calhoun of South Carolina, and General Andrew Jackson of Tennessee. Without a national base of support, Calhoun unofficially withdrew himself from contention for the presidency, and his supporters campaigned for him to become vice president.</p>
@@ -7,4 +7,4 @@
 <p>Jackson and his supporters were furious at both Clay and Adams. When Adams chose Clay as secretary of state, Jackson's partisans alleged that they had made a "corrupt bargain." Jackson's supporters used this slogan to mobilize for the 1828 election, and Jackson defeated Adams in that election four years later.</p>
 <p>The 1824 election was only the second time a presidential election had been thrown into the House of Representatives. With the emergence of a two-party system during the Jackson presidency, such electoral logjams became rare. Only twice since 1824 - in 1876 and 2000 - has the presidential election failed to produce an immediate winner. </p>
 
-<p>For more information, please visit the <a href="../jqadams">John Quincy Adams home page</a> or go to more <a href="index">Events in Presidential History.</a></p>
+<p>For more information, please visit the <a href="../jqadams">John Quincy Adams home page</a>.</p><h4>John Quincy Adams</h4>

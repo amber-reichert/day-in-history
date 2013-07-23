@@ -8,4 +8,4 @@
 <p>The conference ran until December 1, 1943. At the end of the meetings, the “Big Three,” as they became known, issued a joint declaration. In it, they pledged their support to one another and noted that they had reached an agreement for the military operations against Germany.  They concluded the declaration by stating: “We came here with hope and determination. We leave here, friends in fact, in spirit, and in purpose.”</p>
 
 <p>To read the Tehran Declaration, issued on December 1, 1943, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3817"">here</a>.</p>
-<h4>Franklin Delano Roosevelt</h4>
+<h4>Franklin D. Roosevelt</h4>

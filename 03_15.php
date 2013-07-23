@@ -12,4 +12,4 @@
 <p>President Johnson, the master legislator, pushed for the passage of a strong bill to end the disenfranchisement of African Americans in the South. Together with the Civil Rights Act of 1964, the Voting Rights Act effectively ended the systematic segregation of the South.</p>
 
 <p>To read and listen to the full text of Johnson's speech, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3386"">here</a>.</p>
-<h4>Lyndon Baines Johnson</h4>
+<h4>Lyndon B. Johnson</h4>

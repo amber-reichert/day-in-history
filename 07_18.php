@@ -8,4 +8,4 @@
 <p>One of the major sticking points for an arms control agreement was the issue of inspection. Each side needed to confirm the removal of nuclear weapons through some type of examination. In order to bypass this impediment, Eisenhower proposed an “open skies” policy, which would allow nations to inspect military installations from the air. The Soviet representatives rejected this idea, correctly viewing the proposal as a way that the Americans could gain critical intelligence.</p>			
 <p>The “Spirit of Geneva” eased tensions between the Soviets and the United States, and Eisenhower returned home triumphant, even though the conference failed to produce agreements on arms control or other major international issues. The President had demonstrated that the United States was sincere in pursuing peace while remaining firm against the threats of the Soviet Union. According to a Gallup poll, Eisenhower's popularity reached 79 percent after the conference, the highest level of his presidency.</p>
 
-<h4>Dwight David Eisenhower</h4>
+<h4>Dwight D. Eisenhower</h4>

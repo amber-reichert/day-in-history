@@ -10,4 +10,4 @@
 <p>After significant delays, Marshall finally received a hearing before the Senate Judiciary Committee and faced a barrage of hostile questions from southern senators. Some tried to paint him as a radical or a Communist, while Strom Thurmond of South Carolina tested Marshall with obscure legal and historical queries. Despite this opposition, the Judiciary Committee voted Marshall's nomination to the full floor of the Senate. In the floor vote, Johnson used his influence to convince twenty southern senators not to vote on the matter. Their absence assured Marshall's confirmation.</p>
 <p>On October 2, 1967, Marshall became the ninety-sixth justice of the Supreme Court.  He was the first African American to serve on the Supreme Court. Marshall remained on the court for twenty-four years, providing an increasingly unaccompanied liberal voice on the law. Marshall's appointment to the court was a symbolic and significant action in moving the nation toward racial equality.</p>
 
-<h4>Lyndon Baines Johnson</h4>
+<h4>Lyndon B. Johnson</h4>

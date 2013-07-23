@@ -9,4 +9,4 @@
 
 <p>To read an excerpt of Kennedy's speech about the goal of sending a man to the moon, please click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3368"">here</a>.</p>
 
-<h4>John Fitzgerald Kennedy</h4>
+<h4>John F. Kennedy</h4>

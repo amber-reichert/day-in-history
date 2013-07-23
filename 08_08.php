@@ -9,4 +9,4 @@
 
 <p>To watch, listen, or read President Nixon's address to the nation about his decision to resign, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3871"">here</a>.</p>
 
-<h4>Richard Milhous Nixon</h4>
+<h4>Richard Nixon</h4>

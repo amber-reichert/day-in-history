@@ -10,4 +10,4 @@
 <p>In his announcement on March 31, President Johnson also told the American people about the partial bombing halt in North Vietnam. He stated that there would be no bombing of North Vietnam except in the area near the demilitarized zone and asked Ho Chi Minh to respond positively to this gesture. Johnson finished his announcement on Vietnam; then he paused dramatically before launching into his decision not to run for reelection.</p> 
 
 <p>To read President Johnson's entire address, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3388"">here</a>.</p>
-<h4>Lyndon Baines Johnson</h4>
+<h4>Lyndon B. Johnson</h4>

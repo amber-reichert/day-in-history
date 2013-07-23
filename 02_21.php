@@ -9,4 +9,4 @@
 <p>At the end of the visit, China and the United States jointly issued the Shanghai Communiqu&eacute;, which pledged that both countries wanted to strive toward normalizing relations. The United States also agreed that there was one China and Taiwan was part of it and that the United States would work toward the ultimate objective of removing U.S. forces from Taiwan. The most lasting contribution of the Nixon visit was a rapprochement with China itself, with the United States recognizing the People's Republic of China as the sole diplomatic voice of China.</p>
 <p>European allies applauded the trip, but leaders in Japan and Taiwan viewed the diplomatic move with caution and concern. Nixon's secret diplomacy also concerned many who felt that matters of national interest ought to be debated publicly. Still, Nixon's historic visit to China in 1972 opened the door to relations between two of the world's most powerful countries, China and the United States.</p>
 
-<h4>Richard Milhous Nixon</h4>
+<h4>Richard Nixon</h4>

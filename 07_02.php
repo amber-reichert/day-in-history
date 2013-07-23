@@ -9,4 +9,4 @@
 <p>After shooting Garfield, Guiteau stood by quietly and awaited apprehension. His trial began in the fall of 1881. Although his lawyers wanted him to plead insanity, Guiteau resisted. He was found guilty and executed on June 30, 1882. The Stalwarts became the target of considerable criticism following the assassination, with many arguing that they were responsible for creating an atmosphere of conflict that allowed for an individual such as Guiteau to emerge.</p>
 <p>Had Garfield lived, he might have shifted the energies of the Republican Party toward problems that had arisen in the United States as a result of industrialization, instead of maintaining a focus on issues which lingered from the Civil War and Reconstruction.  His death delayed the consolidation of party factions and the modernization of the platform. The assassination, however, helped accelerate civil service reforms. The image of Garfield's assassin as a “disappointed office seeker” motivated many to blame the inadequate civil service system for the President's murder and prompted the Pendleton Civil Service Reform Act of 1883.</p>
 
-<h4>James Abram Garfield</h4>
+<h4>James A. Garfield</h4>

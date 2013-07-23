@@ -12,4 +12,4 @@
 <p>In a televised speech on the night of August 8, 1974, President Richard Nixon announced his intention to resign at noon the next day. Although he conceded he had made some wrong judgments, he did not admit to any wrongdoing. Vice President Gerald Ford was sworn in as President the next day, remarking in his inaugural address, “My fellow Americans, our long national nightmare is over.”</p>
 <p>Nixon's resignation marked the first such act by a President in U.S. history. Among its many implications, the resignation confirmed that no individual-regardless of rank or station-was above the law, and that there were real consequences for those who violated the law willfully. As for its political impact, the resignation chipped away at the aura of the presidency and the public's trust in government.</p>
 
-<h4>Richard Milhous Nixon</h4>
+<h4>Richard Nixon</h4>

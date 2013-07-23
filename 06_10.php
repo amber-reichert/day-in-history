@@ -10,4 +10,4 @@
 
 <p>To read and listen to Kennedy's address at American University, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3374"">here</a>.</p>
 
-<h4>John Fitzgerald Kennedy</h4>
+<h4>John F. Kennedy</h4>

@@ -9,4 +9,4 @@
 <p>Apparently anticipating a U.S. attack, Al Qaeda had, a few days before the attacks, assassinated Ahmad Shah Massoud, the leader of an anti-Taliban rebel force known as the Northern Alliance. It was widely believed that without Massoud, the Northern Alliance would fracture as a fighting force. Instead, the Northern Alliance fought against the Taliban, bolstered by U.S. warplanes and U.S. Special Forces. First it ousted the Taliban from the city of Mazar Al-Sharif on the northern frontier and then from the capital city of Kabul. By mid-March 2002, the Taliban had been removed from power, and the Al Qaeda network in Afghanistan was severely damaged.</p>
 <p>A fledgling democracy was installed in Afghanistan, but even before that country was truly pacified, the Bush administration had turned its attention to Iraq and its dictator Saddam Hussein. With U.S. attention diverted, Afghanistan was left in a precarious state, threatened by instability, violence, and a possible Taliban resurgence.</p>  
 
-<h4>George Walker Bush</h4>
+<h4>George W. Bush</h4>

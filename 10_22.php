@@ -12,4 +12,4 @@
 
 <p>To read and listen to the full text of President Kennedy's Address on the Buildup of Arms in Cuba, click <a href=""http://millercenter.org/scripps/archive/speeches/detail/3372"">here</a>.</p>
 
-<h4>John Fitzgerald Kennedy</h4>
+<h4>John F. Kennedy</h4>

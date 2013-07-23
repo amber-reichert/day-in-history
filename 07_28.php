@@ -10,4 +10,4 @@
 <p>Hoover chose not to declare martial law over the city, but he did instruct Secretary of War Patrick Hurley to remove the marchers. Hurley, in turn, ordered Army Chief of Staff, General Douglas MacArthur to evict the marchers from the city. MacArthur, with Major Dwight D. Eisenhower as his second in command, took control of the operation using troops, guns, and tear gas to drive the marchers from Washington. MacArthur exceeded his orders when he ordered the troops to cross the Anacostia River and drive the marchers from their main encampment. A fire broke out at the encampment, which was destroyed.</p>
 <p>While the President clearly did not want brute force used against the marchers, he took full blame for the incident. The image of the Army attacking innocent bonus marchers haunted Hoover's reelection bid. Later, at the end of the campaign, the President attempted to gain support for the action, claiming that his was a government “that knows how to deal with a mob.” For most Americans, however, the actions against the bonus marchers further detracted from an already unpopular President.</p>
 
-<h4>Herbert Clark Hoover</h4>
+<h4>Herbert Hoover</h4>

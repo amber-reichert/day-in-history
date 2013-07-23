@@ -9,4 +9,4 @@
 Czechosvakia, helped secure the first appropriation of $6.8 million in April 1948. By the time the Marshall Plan had come to an end in 1952, it had provided more than $13 billion in aid to Western Europe. </p>
 <p>Some historians have criticized the plan for increasing tension with the Soviet Union or as a program designed to create markets for American goods in Europe. Despite these negative connotations, the Marshall Plan provided financial and humanitarian aid which fostered economic growth and political stability for the peoples of Western Europe.</p>
 
-<h4>Harry S. Truman</h4><h4>Harry S. Truman</h4>
+<h4>Harry S. Truman</h4>

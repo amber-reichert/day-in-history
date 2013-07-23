@@ -10,4 +10,4 @@
 <p>It is unlikely that this debate will soon be resolved, but the basic triumph of democracy seems inarguable. President George H. W. Bush embraced the geopolitical upheaval cautiously, and he was criticized for failing to give the moment adequate meaning and communicating its import to the American public. However, the President responded cautiously to try to avoid a backlash by hard-liners in Eastern Europe and the Soviet Union, a stance that well-informed observers applauded. 
 <p>The dismantling of the Berlin Wall was a poignant illustration of the collapse of communism and the end of the Cold War. The world was then faced with restructuring the geopolitical balance that had been in place for more than forty years.</p>
 
-<h4>George Herbert Walker Bush</h4>
+<h4>George H. W. Bush</h4>

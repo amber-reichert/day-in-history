@@ -9,4 +9,4 @@
 <p>After the failure in the House of a more powerful bill that would have given the federal government additional power to enforce election law, President Grant decided to intervene. The President met with Congressional leaders to urge the passage of stronger legislation, and on their recommendation, Grant issued a direct appeal to Congress requesting a new law. Grant's appeal was successful, and Congress passed the Ku Klux Klan Act.</p>
 <p>President Grant put the new legislation to work after several Klan incidents in May. He sent additional troops to the South and suspended the writ of habeas corpus in nine counties in South Carolina. Aided by Attorney General Amos T. Akermen and the newly created Department of Justice, extensive work was done to prosecute the Klan. While relatively few convictions were obtained, the new legislation helped to suppress Klan activities and ensure a greater degree of fairness in the election of 1872.</p>
 
-<h4>Ulysses Simpson Grant</h4>
+<h4>Ulysses S. Grant</h4>

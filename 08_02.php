@@ -8,4 +8,4 @@
 <p>It was not to be, however, as the grueling trip proved too much for the fifty-eight-year-old Harding whose health had been deteriorating for six months. He died in San Francisco in the early evening of August 2, as his wife, Florence, was reading to him. A popular President, his passing was a blow to the American public, and many people turned out to mourn Harding. Vice President Calvin Coolidge was sworn in as President.</p> 
 <p>Harding's death erased any possibility that the President could defend himself and his administration against the scandals and charges of corruption that came to light after he died. His presidency is most often remembered for its corruption, lack of vision, and lackluster leadership.</p>
 
-<h4>Warren Gamaliel Harding</h4>
+<h4>Warren G. Harding</h4>

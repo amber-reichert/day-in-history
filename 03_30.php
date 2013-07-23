@@ -9,4 +9,4 @@
 <p>President Reagan appeared before a joint session of Congress a few months after the assassination attempt to thunderous support. The attempt on his life and speedy recovery from his wounds helped establish his reputation for toughness, humility, and strength-a far cry from the public perception of his predecessor, Jimmy Carter. Press Secretary James Brady, however, suffered permanent brain damage from his wounds, and later advocated the passage of gun control laws. The “Brady Bill,” named in his honor, limited handgun purchases and required background checks on gun purchasers.</p>
 <p>In 1982, a District of Columbia jury tried John W. Hinkley, Jr., and found him not guilty by reason of insanity. He was then committed to St. Elizabeth's Hospital for treatment of his mental illness.</p>
 
-<h4>Ronald Wilson Reagan</h4>
+<h4>Ronald Reagan</h4>
